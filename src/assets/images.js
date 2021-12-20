@@ -1,0 +1,1 @@
+export const Car = require('./images/car.png')
